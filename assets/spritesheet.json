@@ -1,0 +1,103 @@
+{"frames": {
+
+"common_bush.svg":
+{
+	"frame": {"x":206,"y":0,"w":250,"h":250},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":250},
+	"sourceSize": {"w":250,"h":250}
+},
+"common_cactus.svg":
+{
+	"frame": {"x":456,"y":0,"w":250,"h":250},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":250},
+	"sourceSize": {"w":250,"h":250}
+},
+"common_fern.svg":
+{
+	"frame": {"x":506,"y":250,"w":338,"h":297},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":338,"h":297},
+	"sourceSize": {"w":338,"h":297}
+},
+"common_grass.svg":
+{
+	"frame": {"x":0,"y":547,"w":338,"h":297},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":338,"h":297},
+	"sourceSize": {"w":338,"h":297}
+},
+"common_leaf1.png":
+{
+	"frame": {"x":0,"y":0,"w":67,"h":126},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":67,"h":126},
+	"sourceSize": {"w":67,"h":126}
+},
+"common_leaf2.png":
+{
+	"frame": {"x":67,"y":0,"w":68,"h":126},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":126},
+	"sourceSize": {"w":68,"h":126}
+},
+"common_leaf3.png":
+{
+	"frame": {"x":135,"y":0,"w":71,"h":123},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":123},
+	"sourceSize": {"w":71,"h":123}
+},
+"common_pine.svg":
+{
+	"frame": {"x":250,"y":250,"w":256,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
+	"sourceSize": {"w":256,"h":256}
+},
+"common_rock.svg":
+{
+	"frame": {"x":706,"y":0,"w":250,"h":250},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":250},
+	"sourceSize": {"w":250,"h":250}
+},
+"common_tree.svg":
+{
+	"frame": {"x":0,"y":844,"w":1024,"h":512},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":512},
+	"sourceSize": {"w":1024,"h":512}
+},
+"player.svg":
+{
+	"frame": {"x":0,"y":250,"w":250,"h":250},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":250},
+	"sourceSize": {"w":250,"h":250}
+}},
+"animations": {
+	"common_leaf": ["common_leaf1.png","common_leaf2.png","common_leaf3.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "spritesheet.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1356},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:50c213beb628d049bd249e4127a04c1a:853677c593e029afaba8675dbfd8a821:729adc6043343cfda41c447ce8f464d6$"
+}
+}
